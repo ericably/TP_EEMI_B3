@@ -1,6 +1,6 @@
 # TP_EEMI_B3
 
-Durée : 6 heures 
+Durée : 6 heures. 
 À rendre : lien vers votre dépôt Git de l’étudiant
 
 Contexte
